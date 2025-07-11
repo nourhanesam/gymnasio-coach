@@ -952,6 +952,9 @@ overflow: hidden;
     padding: 15px;
    
 }
+.onee{
+    height: 520px !important;
+}
 #review .container .review {
     min-width: 305px;
     max-width: 266px;
